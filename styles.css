@@ -1,4 +1,9 @@
 body {
     background-color: orange;
   }
+
+.navbar {
+    font-weight: bold;
+    text-decoration: underline;
+}
   
