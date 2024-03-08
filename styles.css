@@ -17,3 +17,7 @@ body { font-family: 'Arial', sans-serif;
 .banner {
          text-align: center;
 }
+
+.slogan {
+         background-color: brown;
+}
